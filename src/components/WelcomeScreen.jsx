@@ -60,15 +60,15 @@ export const WelcomeScreen = ({ onOpen }) => {
 
         {/* Heading */}
         <h1 className="text-2xl sm:text-3xl font-bold tracking-tight text-white mb-4 leading-tight">
-          Untuk seseorang yang <br className="hidden sm:block"/>
+          From My <br className="hidden sm:block"/>
           <span className="text-transparent bg-clip-text bg-gradient-to-r from-[#E63956] to-[#FF6B8B]">
-            jauh di sana... ❤️
+            Boyfriend
           </span>
         </h1>
 
         {/* Subtitle */}
         <p className="text-gray-300 text-sm sm:text-base leading-relaxed mb-8 max-w-md">
-          “Walaupun jarak memisahkan, hari ini tetap ingin aku rayakan bersamamu.”
+          “The one i love and cherush the most❤️”
         </p>
 
         {/* Button */}
