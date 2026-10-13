@@ -52,7 +52,7 @@ export const DistanceSection = () => {
               </div>
               <div className="text-center">
                 <div className="flex items-center gap-1 font-semibold text-white text-base sm:text-lg">
-                  <span>📍 Kamu</span>
+                  <span>📍 aku</span>
                   <Heart className="w-4 h-4 text-[#E63956] fill-[#E63956]" />
                 </div>
                 <span className="text-xs text-gray-400">Di Sana</span>
@@ -78,7 +78,7 @@ export const DistanceSection = () => {
               <div className="text-center">
                 <div className="flex items-center gap-1 font-semibold text-white text-base sm:text-lg">
                   <Heart className="w-4 h-4 text-[#E63956] fill-[#E63956]" />
-                  <span>📍 Aku</span>
+                  <span>📍 kamu</span>
                 </div>
                 <span className="text-xs text-gray-400">Di Sini</span>
               </div>
