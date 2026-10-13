@@ -109,25 +109,17 @@ export const BirthdayLetter = ({ onTriggerHearts }) => {
               {/* Exact Letter Body */}
               <div className="space-y-4 text-gray-200 text-sm sm:text-base leading-relaxed font-light font-sans-custom tracking-wide">
                 <p>
-                  Selamat ulang tahun untuk seseorang yang sangat berarti buatku.
+                  selamat ulang tahun,kamu sayang semoga diumur yg baru kamu sehat selalu, bahagia terus semua doa dan harapan kamu jika boleh sama Allah.
+makasiii udh jadi cowok yg paling baik , paling sabar sama sifat kuu, dan sayang selalu buat aku ya..🤍
                 </p>
-                <p>
-                  Hari ini mungkin kita tidak bisa merayakannya bersama secara langsung, tidak bisa duduk bersebelahan, atau sekadar mengucapkan selamat sambil melihat senyummu dari dekat.
-                </p>
-                <p>
-                  Tapi aku ingin kamu tahu, jarak tidak pernah membuat rasa sayang ini ikut menjauh.
-                </p>
-                <p>
-                  Semoga di usia yang baru ini kamu selalu diberikan kesehatan, kebahagiaan, dan banyak hal baik. Semoga semua yang kamu impikan bisa tercapai satu per satu.
-                </p>
-                <p className="font-normal text-white">
-                  Dan semoga suatu hari nanti, kita tidak lagi merayakan ulang tahun dari balik layar, tapi benar-benar duduk berdampingan dan membuat banyak kenangan baru bersama. ❤️
+                 <p>
+                  cieee umur kamu udah 24 tahun niee, semoga kamu rejeki mu dilancarkan terus, dan kerjaanmu dipermudah aminnn..
                 </p>
               </div>
 
               {/* Footer sign off */}
               <div className="mt-8 pt-6 border-t border-white/10 flex items-center justify-between">
-                <span className="font-script text-2xl text-rose-400">Dengan Seluruh Cintaku</span>
+                <span className="font-script text-2xl text-rose-400">happy birthday my everything! Iloveyou❤️</span>
                 <button
                   onClick={() => setIsOpen(false)}
                   className="text-xs text-gray-400 hover:text-rose-300 underline cursor-pointer"
