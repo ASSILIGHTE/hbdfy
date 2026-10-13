@@ -43,7 +43,7 @@ export const Hero = () => {
             </div>
             <div className="flex items-center gap-1 bg-[#0D0D0D]/80 px-3 py-1 rounded-full border border-white/10 text-xs text-rose-300 font-medium">
               <MapPin className="w-3 h-3 text-[#E63956]" />
-              <span>📍 Kamu</span>
+              <span>📍 aku</span>
             </div>
           </motion.div>
 
@@ -100,7 +100,7 @@ export const Hero = () => {
             </div>
             <div className="flex items-center gap-1 bg-[#0D0D0D]/80 px-3 py-1 rounded-full border border-white/10 text-xs text-rose-300 font-medium">
               <MapPin className="w-3 h-3 text-[#E63956]" />
-              <span>📍 Aku</span>
+              <span>📍 kamu</span>
             </div>
           </motion.div>
         </motion.div>
